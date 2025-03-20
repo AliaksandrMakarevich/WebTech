@@ -2,7 +2,7 @@
 
 namespace Lab3.Components
 {
-    public class CartViewComponent: ViewComponent
+    public class CartViewComponent : ViewComponent
     {
         public IViewComponentResult Invoke()
         {
